@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Test</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="timetable">Расписание</string>
+    <string name="about_app">О приложении</string>
+    <string name="copyright">Alexey Anfimogentov\u00A9</string>
+    <string name="app_version">Версия: %s</string>
+    <string name="search">Поиск</string>
+    <string name="country">Страна</string>
+    <string name="region">Регион</string>
+    <string name="city">Город</string>
+    <string name="address">Адрес</string>
+    <string name="not_found">Ничего не найдено</string>
+</resources>
